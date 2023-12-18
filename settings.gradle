@@ -1,0 +1,5 @@
+rootProject.name = 'stock-manager'
+include 'domain'
+include 'application'
+include 'infrastructure'
+
